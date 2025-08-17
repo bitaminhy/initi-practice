@@ -8,11 +8,13 @@
   #about .text img {
     margin-right: 0;
   }
-}
-#bicycle ul {
-  flex-direction: column;
-}
-#bicycle ul li {
-  width: 100%;
-  margin-bottom: 30px;
+
+  #bicycle ul {
+    flex-direction: column;
+  }
+  #bicycle ul li {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
 }
